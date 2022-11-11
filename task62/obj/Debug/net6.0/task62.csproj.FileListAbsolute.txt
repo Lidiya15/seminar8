@@ -1,0 +1,15 @@
+E:\seminar_8_C#_DZ\task62\bin\Debug\net6.0\task62.exe
+E:\seminar_8_C#_DZ\task62\bin\Debug\net6.0\task62.deps.json
+E:\seminar_8_C#_DZ\task62\bin\Debug\net6.0\task62.runtimeconfig.json
+E:\seminar_8_C#_DZ\task62\bin\Debug\net6.0\task62.dll
+E:\seminar_8_C#_DZ\task62\bin\Debug\net6.0\task62.pdb
+E:\seminar_8_C#_DZ\task62\obj\Debug\net6.0\task62.csproj.AssemblyReference.cache
+E:\seminar_8_C#_DZ\task62\obj\Debug\net6.0\task62.GeneratedMSBuildEditorConfig.editorconfig
+E:\seminar_8_C#_DZ\task62\obj\Debug\net6.0\task62.AssemblyInfoInputs.cache
+E:\seminar_8_C#_DZ\task62\obj\Debug\net6.0\task62.AssemblyInfo.cs
+E:\seminar_8_C#_DZ\task62\obj\Debug\net6.0\task62.csproj.CoreCompileInputs.cache
+E:\seminar_8_C#_DZ\task62\obj\Debug\net6.0\task62.dll
+E:\seminar_8_C#_DZ\task62\obj\Debug\net6.0\refint\task62.dll
+E:\seminar_8_C#_DZ\task62\obj\Debug\net6.0\task62.pdb
+E:\seminar_8_C#_DZ\task62\obj\Debug\net6.0\task62.genruntimeconfig.cache
+E:\seminar_8_C#_DZ\task62\obj\Debug\net6.0\ref\task62.dll
