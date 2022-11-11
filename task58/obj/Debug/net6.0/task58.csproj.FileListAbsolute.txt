@@ -1,0 +1,15 @@
+E:\seminar_8_C#_DZ\task58\bin\Debug\net6.0\task58.exe
+E:\seminar_8_C#_DZ\task58\bin\Debug\net6.0\task58.deps.json
+E:\seminar_8_C#_DZ\task58\bin\Debug\net6.0\task58.runtimeconfig.json
+E:\seminar_8_C#_DZ\task58\bin\Debug\net6.0\task58.dll
+E:\seminar_8_C#_DZ\task58\bin\Debug\net6.0\task58.pdb
+E:\seminar_8_C#_DZ\task58\obj\Debug\net6.0\task58.csproj.AssemblyReference.cache
+E:\seminar_8_C#_DZ\task58\obj\Debug\net6.0\task58.GeneratedMSBuildEditorConfig.editorconfig
+E:\seminar_8_C#_DZ\task58\obj\Debug\net6.0\task58.AssemblyInfoInputs.cache
+E:\seminar_8_C#_DZ\task58\obj\Debug\net6.0\task58.AssemblyInfo.cs
+E:\seminar_8_C#_DZ\task58\obj\Debug\net6.0\task58.csproj.CoreCompileInputs.cache
+E:\seminar_8_C#_DZ\task58\obj\Debug\net6.0\task58.dll
+E:\seminar_8_C#_DZ\task58\obj\Debug\net6.0\refint\task58.dll
+E:\seminar_8_C#_DZ\task58\obj\Debug\net6.0\task58.pdb
+E:\seminar_8_C#_DZ\task58\obj\Debug\net6.0\task58.genruntimeconfig.cache
+E:\seminar_8_C#_DZ\task58\obj\Debug\net6.0\ref\task58.dll
